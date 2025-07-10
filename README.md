@@ -1,4 +1,4 @@
-# Differential Gene Expression Analysis
+# Exploring transcriptomic analysis of cancers
 
 This repository contains differential gene expression analysis projects comparing cancer types using TCGA bulk RNA-seq data.
 
